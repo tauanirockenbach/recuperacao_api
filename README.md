@@ -1,7 +1,7 @@
-## Consumo de API
-## tem como base usar consumir uma API já disponivel para consumo
+# Consumo de API
+tem como base usar consumir uma API já disponivel para consumo
 
-# Instalação e configuração:
+## Instalação e configuração:
 Deve ser instalada localmente, logo, é necessário a instalação do python(Utilizado = VS code) e Git para fazer o versionamento.
 
 Criar o ambiente virtual:
